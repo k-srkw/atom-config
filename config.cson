@@ -1,0 +1,20 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    openEmptyEditorOnStart: false
+    telemetryConsent: "limited"
+    titleBar: "custom-inset"
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "ba149080-4a31-6ecf-4b5b-6196072f0b0b"
+  "git-diff": {}
+  "one-dark-ui": {}
+  welcome:
+    showOnStartup: false
