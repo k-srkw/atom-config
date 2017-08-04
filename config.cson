@@ -16,5 +16,7 @@
     userId: "ba149080-4a31-6ecf-4b5b-6196072f0b0b"
   "git-diff": {}
   "one-dark-ui": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
