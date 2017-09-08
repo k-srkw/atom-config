@@ -22,5 +22,7 @@
   term3: {}
   "tool-bar":
     visible: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
