@@ -4,6 +4,9 @@ dev
 blob-store
 packages
 .apm
+.apmrc
 .npm
 .node-gyp
 .DS_Store
+markdown-writer-links.cson
+recovery

@@ -15,6 +15,12 @@
   "exception-reporting":
     userId: "ba149080-4a31-6ecf-4b5b-6196072f0b0b"
   "git-diff": {}
+  "markdown-preview": {}
   "one-dark-ui": {}
+  "plantuml-viewer":
+    charset: "UTF-8"
+  term3: {}
+  "tool-bar":
+    visible: false
   welcome:
     showOnStartup: false
